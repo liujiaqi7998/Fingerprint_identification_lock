@@ -1,7 +1,7 @@
-AS60xÖ¸ÎÆÊ¶±ğ²Î¿¼×ÊÁÏ
-
-AS60xÖ¸ÎÆÊ¶±ğSOCÓÃ»§ÊÖ²áV10
-½á¹¹Í¼ºÍ½ÓÏßÍ¼¾ùÀ´×Ô³§¼Ò°áÔËÕâÊÇÎªÁË²Î¿¼·½±ã
-
-Adafruit-Fingerprint-Sensor-Library-master¿âÎÄ¼ş
-À´Ô´:https://github.com/adafruit/Adafruit-Fingerprint-Sensor-Library.git
+AS60xæŒ‡çº¹è¯†åˆ«å‚è€ƒèµ„æ–™
+===========================
+AS60xæŒ‡çº¹è¯†åˆ«SOCç”¨æˆ·æ‰‹å†ŒV10
+ç»“æ„å›¾å’Œæ¥çº¿å›¾å‡æ¥è‡ªå‚å®¶æ¬è¿è¿™æ˜¯ä¸ºäº†å‚è€ƒæ–¹ä¾¿
+****
+Adafruit-Fingerprint-Sensor-Library-masteråº“æ–‡ä»¶
+æ¥æº:https://github.com/adafruit/Adafruit-Fingerprint-Sensor-Library.git
