@@ -1,1 +1,1 @@
-﻿![](https://github.com/liujiaqi7998/Fingerprint_identification_lock/blob/master/logo.jpg)
+﻿![](https://github.com/liujiaqi7998/Fingerprint_identification_lock/blob/master/%E5%9B%BE%E7%BA%B8/%E6%8E%A5%E7%BA%BF%E5%9B%BE.png)
